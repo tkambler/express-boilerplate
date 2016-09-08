@@ -1,0 +1,10 @@
+{
+    "consul": {
+        "client_options": {
+            "host": "consul",
+            "port": 8500,
+            "secure": false
+        },
+        "config_key": "active-directory-api/app-config"
+    }
+}
