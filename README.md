@@ -1,6 +1,6 @@
 # Express Boilerplate
 
-Opinionated template for creating new Express-based projects.
+An opinionated template for creating new Express-based projects.
 
 ```
 $ git clone git@github.com:tkambler/express-boilerplate.git
