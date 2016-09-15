@@ -1,5 +1,5 @@
 {
-  "name": "active-directory-api",
+  "name": "express-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -20,5 +20,6 @@
     "meddleware": "^3.0.3",
     "morgan": "^1.7.0",
     "shortstop-handlers": "^1.0.1"
-  }
+  },
+  "private": true
 }
