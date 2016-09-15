@@ -1,5 +1,5 @@
 {
-  "name": "active-directory-api",
+  "name": "express-boilerplate",
   "version": "1.0.0",
   "dependencies": {
     "accepts": {
