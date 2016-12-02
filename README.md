@@ -27,6 +27,9 @@ $ grunt set-log-level --level=debug # Turn on debug messages
 $ grunt set-log-level --level=info # Turn off debug messages
 ```
 
+Log messages are directed to the console. Incoming requests to the API are also logged, but these are directed
+to a series of automatically rotated files stored in `./request-logs`.
+
 ## Related Resources
 
 - [Express](http://expressjs.com/)

@@ -1,14 +1,4 @@
 {
-    "morgan": {
-        "enabled": true,
-        "priority": 5,
-        "module": {
-            "name": "morgan",
-            "arguments": [
-                "combined"
-            ]
-        }
-    },
     "bodyParserJSON": {
         "enabled": true,
         "priority": 10,
