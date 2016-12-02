@@ -1,0 +1,6 @@
+{
+    "verbose": true,
+    "ignore": ["Gruntfile.js", "tasks/**/*"],
+    "execMap": {
+    }
+}

@@ -1,6 +1,10 @@
 {
+    "name": "Express Boilerplate",
     "api": {
         "port": 9000
+    },
+    "ipc": {
+        "port": 5004
     },
     "routes": "import:./routes",
     "meddleware": "import:./meddleware"
