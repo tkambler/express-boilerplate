@@ -6,6 +6,6 @@
     "ipc": {
         "port": 5004
     },
-    "routes": "import:./routes",
+    "routes": "concat:./routes/**/*.json",
     "meddleware": "import:./meddleware"
 }

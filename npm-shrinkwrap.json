@@ -792,6 +792,11 @@
         }
       }
     },
+    "shortstop-concat": {
+      "version": "1.0.1",
+      "from": "shortstop-concat@latest",
+      "resolved": "https://registry.npmjs.org/shortstop-concat/-/shortstop-concat-1.0.1.tgz"
+    },
     "shortstop-handlers": {
       "version": "1.0.1",
       "from": "shortstop-handlers@>=1.0.1 <2.0.0",
